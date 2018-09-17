@@ -1,3 +1,2 @@
-# haxton
-Our project
-# this our project
+# Team Haxton
+Project Noah
